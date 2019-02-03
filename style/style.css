@@ -1,0 +1,36 @@
+#die-div{
+	padding-top: 200px;
+	width: 85vw;
+	height: 50vh;
+	margin: 75px auto;
+	border: 2px solid darkgoldenrod;	
+}
+
+#die-roll-button{
+	display: block;
+	margin: 0 auto;
+}
+
+.dieDiv1{
+	width: 20%;
+	height: 40%;
+	border: 1px solid darkorange;
+	float: left;
+	text-align: center;
+	margin-left: 60px;
+}
+
+.dieRollMessageContainer{
+	width: 35%;
+	height: 40%;
+	float: left;
+}
+
+.dieDiv2{
+	width: 20%; 
+	height: 40%;
+	border: 1px solid darkblue;
+	float: right;
+	text-align: center;
+	margin-right: 60px;
+}
